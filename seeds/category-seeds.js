@@ -1,5 +1,6 @@
 const { Category } = require('../models');
 
+// adding the different categories of items I want in this backend 
 const categoryData = [
   {
     category_name: 'Tops',
