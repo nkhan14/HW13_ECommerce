@@ -21,7 +21,7 @@ This project requires Node.js, Express.js, Dotenv, MySQL2, and Sequelize. The us
 
 Once the necessary dependencies have been installed and the database has been seeded (by running `node seeds/index.js` to populate the database), the user can start the server by running `npm start` in the command line.
 
-![Demo of the ECommerce Back End](INSERT GIF HERE).
+![Demo of the ECommerce Back End](/13.mov).
 
 ## Contributing
 
